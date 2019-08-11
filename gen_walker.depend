@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519849389 source:d:\cpp\gen_walker\main.cpp
+	<windows.h>
+	<vector>
+	<ctime>
+	<stdlib.h>
+	<gl/gl.h>
+	<string>
+	<sstream>
+
